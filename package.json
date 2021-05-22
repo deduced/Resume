@@ -6,7 +6,8 @@
   "scripts": {
     "validate": "resume validate",
     "export:pdf": "resume export resume.pdf",
-    "export:html": "resume export resume.html"
+    "export:html": "resume export resume.html",
+    "publish": "resume publish --theme onepage"
   },
   "keywords": [],
   "author": "",
