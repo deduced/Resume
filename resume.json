@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "theme": "onepage"
+  },
+  "basics": {
+    "name": "Carlos Astrada",
+    "label": "Web Developer",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEsKr4Q-_VOSg/profile-displayphoto-shrink_400_400/0/1523494367934?e=1626912000&v=beta&t=4Tl7UrPRJFgBV7_hjGUe92zl1dltbdLM0NHqcUj4EEg",
+    "email": "carlosastrada@gmail.com",
+    "website": "https://deduced.io",
+    "summary": "An entrepreneur since college, I have achieved success in several ventures. As an entrepreneur and engineer, I learned to wear a lot of hats, becoming well-versed in the various facets of a start-up, from development to management to marketing. I thrive in fast-paced environments with limited resources and feel that I am particularly well-suited to bringing products to life from the idea stage. From a developer standpoint, working across the stack allows me to tackle hard problems efficiently and iterate as quickly as possible on new ideas.  ",
+    "location": {
+      "city": "Washington, DC Metro",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "carlos-astrada",
+        "url": "https://www.linkedin.com/in/carlos-astrada/"
+      },
+      {
+        "url": "https://github.com/deduced",
+        "username": "deduced",
+        "network": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Meteor Fantasy",
+      "highlights": [
+        "Built team of developers, marketers, and managers.",
+        "Led development of platform from idea stage to launch",
+        "Navigated tricky regulatory state landscape"
+      ],
+      "position": "Co-Founder Meteor Fantasy",
+      "startDate": "2020-04",
+      "endDate": "2021-05",
+      "website": "https://www.meteorfantasy.com/",
+      "pinned": true
+    },
+
+    {
+      "company": "Super Monedero",
+      "startDate": "2017-02",
+      "endDate": "2020-04",
+      "highlights": [
+        "Built team of developers, marketers, and managers.",
+        "Led development of platform from idea stage to launch",
+        "Navigated tricky regulatory state landscape"
+      ],
+      "position": "Co-Founder Supermonedero",
+      "website": "https://www.supermonedero.com/"
+    },
+    {
+      "company": "Meteor Affinity, Inc",
+      "startDate": "2014-04",
+      "endDate": "2020-03",
+      "highlights": [
+        "Built and led turnaround team",
+        "Achieved consistent profit after starting with 50k avg monthly losses",
+        "Negotiated multiple contract extensions with NASCAR for the Official NASCAR Members Club Property"
+      ],
+      "position": "Acting CEO",
+      "website": "https://www.meteoraffinity.com/",
+      "pinned": true
+    },
+    {
+      "company": "Fig Money",
+      "startDate": "2016-01",
+      "endDate": "2018-03",
+      "highlights": [
+        "Launched successful wizard-of-oz marketing campaign to test MVP ideas.",
+        "Developed and filed successful patent application",
+        "Led initial marketing research to develop MVP approach with Lean Startup methodologies."
+      ],
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Stoneacre, Inc",
+      "startDate": "2010-05",
+      "endDate": "2014-04",
+      "highlights": [
+        "Built and led developer team in Europe, US, and South America",
+        "Led initiative to build and optimize membership platform technology"
+      ],
+      "position": "VP of Technology"
+    },
+    {
+      "company": "Ecommerce Techs",
+      "startDate": "2007-09",
+      "endDate": "2011-02",
+      "highlights": [
+        "Built a consulting firm specializing in Magento, Wordpress, and Drupal ecommerce development.",
+        "Built team of 27 engineers in 6 countries",
+        "Developed processes and methodologies to operate distributed team successfully",
+        "Successful exit in 2011"
+      ],
+      "position": "Co-Founder"
+    },
+    {
+      "company": "The George Washington University",
+      "startDate": "2003-03",
+      "endDate": "2008-10",
+      "highlights": [
+        "Developed IT-based research projects for the Center for Equity and Excellence in Education (CEEE) while pursuing my graduate studies."
+      ],
+      "position": "Research Associate"
+    },
+    {
+      "company": "Hitachi Innovation Solutions",
+      "startDate": "1999-08",
+      "endDate": "2003-06",
+      "highlights": [
+        "Worked with CSS, SOAP, ASP, and VBScript back when all that was cutting-edge!"
+      ],
+      "position": "Developer"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hack Reactor",
+      "area": "Software Engineering",
+      "studyType": "Advanced Software Engineering Immersive",
+      "startDate": "2018",
+      "endDate": "2018"
+    },
+    {
+      "institution": "The George Washington University",
+      "area": "Business Administration and Management, General",
+      "studyType": "Master of Business Administration - MBA (incomplete)",
+      "startDate": "2003",
+      "endDate": "2005"
+    },
+    {
+      "institution": "University of Maryland",
+      "studyType": "Management Information Systems",
+      "startDate": "1996",
+      "endDate": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Project Management",
+        "Product Owner",
+        "Scrum",
+        "Agile",
+        "Lean Startup Methodology"
+      ],
+      "name": "Management"
+    },
+    {
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS / BEM / Styled Components",
+        "Javascript / Typescript",
+        "React / Next"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Node",
+        "Express",
+        "Ruby",
+        "Python",
+        "Postgres",
+        "Redis",
+        "Serverless"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": ["AWS", "Google Cloud", "Heroku", "Caching", "Docker"],
+      "name": "Devops"
+    },
+    {
+      "keywords": ["R", "Data Analysis", "Statistics", "Data Studio"],
+      "name": "Data Science"
+    },
+    {
+      "keywords": [
+        "Facebook Ads",
+        "Google Adwords",
+        "SEO",
+        "Email Marketing",
+        "Analytics"
+      ],
+      "name": "Digital Marketing"
+    },
+    {
+      "keywords": ["Figma", "Sketch", "Invision"],
+      "name": "UI/UX"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Systems and Methods for Providing User-specific Product Results Based on Financial Assessment",
+      "publisher": "The United States Patent and Trademark Office",
+      "releaseDate": "2017-11-30",
+      "website": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017205463",
+      "summary": "A patent for systems and methods to test-drive a product or service and provide user-specific results that includes a look-back period, a forward projection, or both."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Minimum Professional Proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Limited Working Proficiency"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Limited Working Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": ["guitar", "cooking"]
+    },
+    {
+      "name": "Learning",
+      "keywords": ["history", "philosophy", "mathematics", "science"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jon-Paul Da Prato",
+      "reference": "Carlos embodies that rare blend of extremely driven and highly conscientious that one rarely encounters in another human being. In title and position, we were peers, and Carlos went out of his way to make me feel that I was justified to consider myself his equal, but at the same time, because he is a consummate professional and extremely competent, I always found myself motivated to go above and beyond in order to live up to the standard that he sets for himself and to warrant the profound faith he has in me. Carlos is a leader. He is a model of excellence, and he is truly one-of-a-kind! If you ever have a chance to work with him, do yourself a favor and make it a reality. You will thank me later for the advice."
+    },
+    {
+      "name": "Duke Goulden",
+      "reference": "Carlos has a knack for tackling difficult subjects, teaching others, and is a natural leader. I would strongly recommend Carlos for a software engineering position."
+    },
+    {
+      "name": "Scott Tivey",
+      "reference": "Carlos  brings a wealth of technical prowess & professioalism to his role as SVP of Technology. You won't find anyone who is at the forefront of the tecnological revolution and more importantly, understands exactly how to deploy those best practices to benefit his organizations bottom line performance. He does this all with keeping both long & short term goals in sight, as well as a proactive foresight into how technology and data can be leveraged optimally.\r\n\r\nCarlos comes highly recommended as a true professional in his field and I look forward to working with him wherever he is."
+    }
+  ]
+}
