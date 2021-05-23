@@ -7,7 +7,7 @@
     "validate": "resume validate",
     "export:pdf": "resume export resume.pdf",
     "export:html": "resume export resume.html",
-    "serve": "resume serve --theme onepage"
+    "serve": "resume serve -t onepage"
   },
   "keywords": [],
   "author": "",
