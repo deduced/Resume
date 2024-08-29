@@ -1,19 +1,23 @@
 {
   "meta": {
-    "theme": "onepage-plus"
+    "theme": "onepage"
   },
   "basics": {
     "name": "Carlos Astrada",
-    "label": "vCISO",
+    "label": "Technical Manager",
     "image": "https://avatars.githubusercontent.com/u/1144405?v=4",
     "email": "carlosastrada@gmail.com",
     "website": "https://deducible.io",
-    "summary": "I thrive on challenges – from building startups to fortifying cloud infrastructure. As an entrepreneur and vCISO, I blend my cloud engineering and full-stack development skills with a strategic cybersecurity approach. My passion lies in crafting security solutions that fit like a glove, not a straitjacket. I've helped startups navigate compliance hurdles and guided enterprises through the storm of security incidents. I'm a lifelong learner, always leveling up my skills (currently working on my AWS certs). I'm all about action. I don't just talk about solutions; I build them.",
+    "summary": "An entrepreneur since college, I have achieved success in several ventures. As an entrepreneur and engineer, I learned to wear a lot of hats, becoming well-versed in the various facets of a start-up, from development to management to marketing. I thrive in fast-paced environments with limited resources and feel that I am particularly well-suited to bringing products to life from the idea stage. From a developer standpoint, working across the stack allows me to tackle hard problems efficiently and iterate as quickly as possible on new ideas.  ",
     "location": {
       "city": "Washington, DC Metro",
       "countryCode": "US"
     },
     "profiles": [
+      {
+        "network": "personal-site",
+        "url": "https://deducible.io"
+      },
       {
         "network": "LinkedIn",
         "username": "carlos-astrada",
@@ -28,31 +32,18 @@
   },
   "work": [
     {
-      "company": "Xagax Solutions",
-      "highlights": [
-        "Guided startups through complex compliance landscapes",
-        "Secured global enterprises with diverse cloud and on-premise infrastructures",
-        "Designed and implemented cost-effective cybersecurity strategies"
-      ],
-      "position": "Founder",
-      "startDate": "2022-02",
-      "website": "https://www.xagax.com/",
-      "pinned": true
-    },
-    {
       "company": "Meteor Fantasy",
       "highlights": [
         "Built team of developers, marketers, and managers.",
         "Led development of platform from idea stage to launch",
         "Navigated tricky regulatory state landscape"
       ],
-      "position": "Co-Founder",
+      "position": "Co-Founder Meteor Fantasy",
       "startDate": "2020-04",
-      "endDate": "2022-05", 
+      "endDate": "2022-05",
       "website": "https://meteor-fantasy-public-app-demo.firebaseapp.com/",
       "pinned": true
     },
-
     {
       "company": "Super Monedero",
       "startDate": "2017-02",
@@ -62,7 +53,7 @@
         "Led development of platform from idea stage to launch",
         "Navigated tricky regulatory state landscape"
       ],
-      "position": "Co-Founder",
+      "position": "Co-Founder Supermonedero",
       "website": "https://supermonedero.com/"
     },
     {
@@ -75,7 +66,7 @@
         "Negotiated multiple contract extensions with NASCAR for the Official NASCAR Members Club Property"
       ],
       "position": "Acting CEO",
-      "website": "https://www.meteoraffinity.com/",
+      "website": "https://www.stockcarracefans.com/",
       "pinned": true
     },
     {
@@ -185,11 +176,22 @@
       "name": "Backend"
     },
     {
-      "keywords": ["AWS", "Google Cloud", "Heroku", "Caching", "Docker"],
+      "keywords": [
+        "AWS",
+        "Google Cloud",
+        "Heroku",
+        "Caching",
+        "Docker"
+      ],
       "name": "Devops"
     },
     {
-      "keywords": ["R", "Data Analysis", "Statistics", "Data Studio"],
+      "keywords": [
+        "R",
+        "Data Analysis",
+        "Statistics",
+        "Data Studio"
+      ],
       "name": "Data Science"
     },
     {
@@ -203,7 +205,11 @@
       "name": "Digital Marketing"
     },
     {
-      "keywords": ["Figma", "Sketch", "Invision"],
+      "keywords": [
+        "Figma",
+        "Sketch",
+        "Invision"
+      ],
       "name": "UI/UX"
     }
   ],
@@ -241,11 +247,19 @@
   "interests": [
     {
       "name": "Personal",
-      "keywords": ["guitar", "cooking"]
+      "keywords": [
+        "guitar",
+        "cooking"
+      ]
     },
     {
       "name": "Learning",
-      "keywords": ["history", "philosophy", "mathematics", "science"]
+      "keywords": [
+        "history",
+        "philosophy",
+        "mathematics",
+        "science"
+      ]
     }
   ],
   "references": [

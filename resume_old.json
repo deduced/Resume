@@ -1,14 +1,14 @@
 {
   "meta": {
-    "theme": "onepage-plus"
+    "theme": "onepage"
   },
   "basics": {
     "name": "Carlos Astrada",
-    "label": "vCISO",
-    "image": "https://avatars.githubusercontent.com/u/1144405?v=4",
+    "label": "Developer",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEsKr4Q-_VOSg/profile-displayphoto-shrink_400_400/0/1523494367934?e=1626912000&v=beta&t=4Tl7UrPRJFgBV7_hjGUe92zl1dltbdLM0NHqcUj4EEg",
     "email": "carlosastrada@gmail.com",
     "website": "https://deducible.io",
-    "summary": "I thrive on challenges – from building startups to fortifying cloud infrastructure. As an entrepreneur and vCISO, I blend my cloud engineering and full-stack development skills with a strategic cybersecurity approach. My passion lies in crafting security solutions that fit like a glove, not a straitjacket. I've helped startups navigate compliance hurdles and guided enterprises through the storm of security incidents. I'm a lifelong learner, always leveling up my skills (currently working on my AWS certs). I'm all about action. I don't just talk about solutions; I build them.",
+    "summary": "An entrepreneur since college, I have achieved success in several ventures. As an entrepreneur and engineer, I learned to wear a lot of hats, becoming well-versed in the various facets of a start-up, from development to management to marketing. I thrive in fast-paced environments with limited resources and feel that I am particularly well-suited to bringing products to life from the idea stage. From a developer standpoint, working across the stack allows me to tackle hard problems efficiently and iterate as quickly as possible on new ideas.  ",
     "location": {
       "city": "Washington, DC Metro",
       "countryCode": "US"
@@ -28,28 +28,16 @@
   },
   "work": [
     {
-      "company": "Xagax Solutions",
-      "highlights": [
-        "Guided startups through complex compliance landscapes",
-        "Secured global enterprises with diverse cloud and on-premise infrastructures",
-        "Designed and implemented cost-effective cybersecurity strategies"
-      ],
-      "position": "Founder",
-      "startDate": "2022-02",
-      "website": "https://www.xagax.com/",
-      "pinned": true
-    },
-    {
       "company": "Meteor Fantasy",
       "highlights": [
         "Built team of developers, marketers, and managers.",
         "Led development of platform from idea stage to launch",
         "Navigated tricky regulatory state landscape"
       ],
-      "position": "Co-Founder",
+      "position": "Co-Founder Meteor Fantasy",
       "startDate": "2020-04",
-      "endDate": "2022-05", 
-      "website": "https://meteor-fantasy-public-app-demo.firebaseapp.com/",
+      "endDate": "2021-05",
+      "website": "https://www.meteorfantasy.com/",
       "pinned": true
     },
 
@@ -62,8 +50,8 @@
         "Led development of platform from idea stage to launch",
         "Navigated tricky regulatory state landscape"
       ],
-      "position": "Co-Founder",
-      "website": "https://supermonedero.com/"
+      "position": "Co-Founder Supermonedero",
+      "website": "https://www.supermonedero.com/"
     },
     {
       "company": "Meteor Affinity, Inc",
