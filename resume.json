@@ -8,7 +8,7 @@
     "image": "https://avatars.githubusercontent.com/u/1144405?v=4",
     "email": "carlosastrada@gmail.com",
     "website": "https://deducible.io",
-    "summary": "I thrive on challenges – from building startups to fortifying cloud infrastructure. As an entrepreneur and vCISO, I blend my cloud engineering and full-stack development skills with a strategic cybersecurity approach. My passion lies in crafting security solutions that fit like a glove, not a straitjacket. I've helped startups navigate compliance hurdles and guided enterprises through the storm of security incidents. I'm a lifelong learner, always leveling up my skills (currently working on my AWS certs). I'm all about action. I don't just talk about solutions; I build them.",
+    "summary": "Experienced vCISO with deep cloud engineering and startup expertise. I bridge the gap between robust security and business growth.\n\nMy approach combines hands-on technical knowledge with strategic leadership. I've guided organizations through complex compliance requirements and critical security incidents while maintaining operational efficiency.\n\nWhat sets me apart:\n- Strong AWS credentials\n- Full-stack development background that informs security solutions\n- Business acumen developed through multiple startups\n- Pragmatic understanding of security/cost trade-offs\n\nI don't just identify security gaps—I implement solutions that protect your business without hindering innovation or velocity.",
     "location": {
       "city": "Washington, DC Metro",
       "countryCode": "US"
@@ -28,7 +28,7 @@
   },
   "work": [
     {
-      "company": "Xagax Solutions",
+      "name": "Xagax Solutions",
       "highlights": [
         "Guided startups through complex compliance landscapes",
         "Secured global enterprises with diverse cloud and on-premise infrastructures",
@@ -40,7 +40,7 @@
       "pinned": true
     },
     {
-      "company": "Meteor Fantasy",
+      "name": "Meteor Fantasy",
       "highlights": [
         "Built team of developers, marketers, and managers.",
         "Led development of platform from idea stage to launch",
@@ -48,13 +48,13 @@
       ],
       "position": "Co-Founder",
       "startDate": "2020-04",
-      "endDate": "2022-05", 
+      "endDate": "2022-05",
       "website": "https://meteor-fantasy-public-app-demo.firebaseapp.com/",
       "pinned": true
     },
 
     {
-      "company": "Super Monedero",
+      "name": "Super Monedero",
       "startDate": "2017-02",
       "endDate": "2020-04",
       "highlights": [
@@ -66,7 +66,7 @@
       "website": "https://supermonedero.com/"
     },
     {
-      "company": "Meteor Affinity, Inc",
+      "name": "Meteor Affinity, Inc",
       "startDate": "2014-04",
       "endDate": "2020-03",
       "highlights": [
@@ -79,7 +79,7 @@
       "pinned": true
     },
     {
-      "company": "Fig Money",
+      "name": "Fig Money",
       "startDate": "2016-01",
       "endDate": "2018-03",
       "highlights": [
@@ -90,7 +90,7 @@
       "position": "Co-Founder"
     },
     {
-      "company": "Stoneacre, Inc",
+      "name": "Stoneacre, Inc",
       "startDate": "2010-05",
       "endDate": "2014-04",
       "highlights": [
@@ -100,7 +100,7 @@
       "position": "VP of Technology"
     },
     {
-      "company": "Ecommerce Techs",
+      "name": "Ecommerce Techs",
       "startDate": "2007-09",
       "endDate": "2011-02",
       "highlights": [
@@ -112,7 +112,7 @@
       "position": "Co-Founder"
     },
     {
-      "company": "The George Washington University",
+      "name": "The George Washington University",
       "startDate": "2003-03",
       "endDate": "2008-10",
       "highlights": [
@@ -121,7 +121,7 @@
       "position": "Research Associate"
     },
     {
-      "company": "Hitachi Innovation Solutions",
+      "name": "Hitachi Innovation Solutions",
       "startDate": "1999-08",
       "endDate": "2003-06",
       "highlights": [
@@ -131,6 +131,12 @@
     }
   ],
   "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Machine Learning",
+      "studyType": "Master of Science in Computer Science",
+      "startDate": "2025-01"
+    },
     {
       "institution": "Hack Reactor",
       "area": "Software Engineering",
@@ -147,7 +153,7 @@
     },
     {
       "institution": "University of Maryland",
-      "studyType": "Management Information Systems",
+      "studyType": "Bachelor of Science - Management Information Systems",
       "startDate": "1996",
       "endDate": "2000"
     }
@@ -165,10 +171,21 @@
     },
     {
       "keywords": [
+        "CISO",
+        "Cloud Security",
+        "Cybersecurity",
+        "Cloud Engineering",
+        "AWS"
+      ],
+      "name": "Information Security"
+    },
+    {
+      "keywords": [
         "HTML / JSX",
         "SCSS / CSS / BEM / Styled Components",
         "Javascript / Typescript",
-        "React / Next"
+        "React / Next",
+        "Full-Stack Development"
       ],
       "name": "Frontend"
     },
@@ -180,12 +197,13 @@
         "Python",
         "Postgres",
         "Redis",
-        "Serverless"
+        "Serverless",
+        "Full-Stack Development"
       ],
       "name": "Backend"
     },
     {
-      "keywords": ["AWS", "Google Cloud", "Heroku", "Caching", "Docker"],
+      "keywords": ["AWS", "Heroku", "Caching", "Docker"],
       "name": "Devops"
     },
     {
